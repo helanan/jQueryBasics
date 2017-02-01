@@ -1,3 +1,5 @@
+"use strict";
+
 console.log("hello jqueryStarter Script");
 
 $(document).ready(function () {
@@ -36,6 +38,8 @@ var umbrellaElement = $("h1[umbrella='open']");
 console.log("umbrella text: ", umbrellaElement.html());
 
 //Select children
+"use strict";
+
 console.log("all children: ", $(".container").children()); //There are two children elements
 
 //Select specific children

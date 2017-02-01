@@ -29,3 +29,9 @@
 #####AJAX Calls
 - $.ajax ({url: "#"}).done(functionIWantjQueryToExecute);
 - function functionIWantjQueryToExecute(item) {for loop {currentItem = itemList.items[i]; $("#elementName").append("html element" + item.attribute);}}
+
+##Installing NPM
+
+- Step 1: create a lib folder && cd 
+- Step 2: npm init
+- Step 3: npm install grunt --save-dev (if developing locally)
