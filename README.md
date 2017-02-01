@@ -35,3 +35,6 @@
 - Step 1: create a lib folder && cd 
 - Step 2: npm init
 - Step 3: npm install grunt --save-dev (if developing locally)
+- Step 4: create grunt
+
+![jQuery logo](http://res.cloudinary.com/emma/image/upload/v1485983711/jquery_logo_i5xdaf.png "jQuery logo")
